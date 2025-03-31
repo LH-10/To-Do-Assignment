@@ -1,0 +1,66 @@
+.header {
+  background-color: #6bb1f8;
+  color: white;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.user-controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.welcome-message {
+  font-size: 0.9rem;
+}
+
+.logout-btn {
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+  padding: 0.3rem 0.8rem;
+  font-size: 0.9rem;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.logout-btn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.footer {
+  background-color: #3a82cae5;
+  color: rgb(254, 246, 246);
+  text-align: center;
+  padding: 1rem;
+  margin-top: auto;
+}
+
+.footer p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    gap: 0.5rem;
+    text-align: center;
+  }
+
+  .user-controls {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
