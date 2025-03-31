@@ -61,5 +61,20 @@ This will launch the application, and you can access it in your web browser at `
 - **Styling:** CSS
 
 ## Screenshots
+**Login Page**
 
-![To-Do App Screenshot](screenshots/todo-app-screenshot.png)
+![To-Do App Screenshot](https://github.com/LH-10/To-Do-Assignment/blob/main/To-Do-App/screenshots/ToDo%20(1).png)
+
+**Dashboard**
+
+![To-Do App Screenshot](https://github.com/LH-10/To-Do-Assignment/blob/main/To-Do-App/screenshots/ToDo%20(2).png)
+
+**Add Task**
+
+![To-Do App Screenshot](https://github.com/LH-10/To-Do-Assignment/blob/main/To-Do-App/screenshots/ToDo%20(3).png)
+
+
+![To-Do App Screenshot](https://github.com/LH-10/To-Do-Assignment/blob/main/To-Do-App/screenshots/ToDo%20(4).png)
+
+**Edit Task**
+![To-Do App Screenshot](https://github.com/LH-10/To-Do-Assignment/blob/main/To-Do-App/screenshots/ToDo%20(5).png)
